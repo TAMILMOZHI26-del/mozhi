@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mozhi/static/css/main.471f509a.css",
+    "main.js": "/mozhi/static/js/main.c10357d2.js",
+    "static/media/image16.png": "/mozhi/static/media/image16.4c9c0126ccd746209b33.png",
+    "static/media/image17.png": "/mozhi/static/media/image17.0d70d248816c607c3fb5.png",
+    "static/media/image06.jpeg": "/mozhi/static/media/image06.9a54a6ef9071f7f01736.jpeg",
+    "static/media/image04.png": "/mozhi/static/media/image04.380f96d2f33125bfa982.png",
+    "static/media/About.jpeg": "/mozhi/static/media/About.abaf394d0cd4ac42bd1a.jpeg",
+    "static/media/image02.png": "/mozhi/static/media/image02.b48f1b5e7b5c551df305.png",
+    "static/media/instagram.png": "/mozhi/static/media/instagram.1d3c37eade5b6ff1180d.png",
+    "static/media/image2.jpeg": "/mozhi/static/media/image2.1ef434ef5fe70ec53691.jpeg",
+    "static/media/youtube.png": "/mozhi/static/media/youtube.36816c56e7a95f4df1bf.png",
+    "static/media/twitter.png": "/mozhi/static/media/twitter.ea1ed14605fa86e8a31e.png",
+    "static/media/srdslogo.png": "/mozhi/static/media/srdslogo.92d1aa03824a4a9b2f1e.png",
+    "static/media/teamimage.jpg": "/mozhi/static/media/teamimage.ac49c19831e4a6fba2eb.jpg",
+    "index.html": "/mozhi/index.html",
+    "main.471f509a.css.map": "/mozhi/static/css/main.471f509a.css.map",
+    "main.c10357d2.js.map": "/mozhi/static/js/main.c10357d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.471f509a.css",
+    "static/js/main.c10357d2.js"
+  ]
+}
