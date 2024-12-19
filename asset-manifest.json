@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mozhi/static/css/main.471f509a.css",
-    "main.js": "/mozhi/static/js/main.c10357d2.js",
+    "main.js": "/mozhi/static/js/main.c4018676.js",
     "static/media/image16.png": "/mozhi/static/media/image16.4c9c0126ccd746209b33.png",
     "static/media/image17.png": "/mozhi/static/media/image17.0d70d248816c607c3fb5.png",
     "static/media/image06.jpeg": "/mozhi/static/media/image06.9a54a6ef9071f7f01736.jpeg",
@@ -16,10 +16,10 @@
     "static/media/teamimage.jpg": "/mozhi/static/media/teamimage.ac49c19831e4a6fba2eb.jpg",
     "index.html": "/mozhi/index.html",
     "main.471f509a.css.map": "/mozhi/static/css/main.471f509a.css.map",
-    "main.c10357d2.js.map": "/mozhi/static/js/main.c10357d2.js.map"
+    "main.c4018676.js.map": "/mozhi/static/js/main.c4018676.js.map"
   },
   "entrypoints": [
     "static/css/main.471f509a.css",
-    "static/js/main.c10357d2.js"
+    "static/js/main.c4018676.js"
   ]
 }
